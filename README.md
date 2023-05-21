@@ -1,0 +1,1 @@
+# EDA-global-terriosm-powerbi-analysis
